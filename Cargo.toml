@@ -1,0 +1,7 @@
+[package]
+name = "race_to_100"
+version = "0.1.0"
+authors = ["varad <vrajvaradraj@gmail.com>"]
+
+[dependencies]
+rand = "0.3.14"
